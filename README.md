@@ -1,6 +1,6 @@
-# jhonatanshop
+# sistema
 
-Bienvenidos al proyecto "jhonatanshop". 
+Bienvenidos al proyecto "sistema". 
 
 Este es un proyecto de una tienda online hecho que iniciamos en laravel 6 y luego actualizamos a laravel 7. 
 
@@ -38,8 +38,8 @@ php artisan key:generate
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=jhonatanshop
-DB_USERNAME=Jhonatanfdez
+DB_DATABASE=laravel_sistema
+DB_USERNAME=usuario_bd
 DB_PASSWORD=123456
 
 6) ejecuta php artisan migrate
